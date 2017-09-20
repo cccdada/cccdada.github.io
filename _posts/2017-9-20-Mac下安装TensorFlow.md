@@ -3,14 +3,14 @@ layout:     post
 title:      Mac下安装TensorFlow
 subtitle:   小白学习人工智能
 date:       2017-09-20
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
+author:     ChaserSheng
+header-img: img/artificial-bg-intelligence.jpg
 catalog: true
 tags:
-    - iOS
-    - ReactiveCocoa
-    - 函数式编程
-    - 开源框架
+    - 人工智能
+    - TensorFlow
+    - Mac
+    - Google
 ---
 
 ![人工智能.jpg](http://upload-images.jianshu.io/upload_images/1557300-1f08dda438857f15.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
