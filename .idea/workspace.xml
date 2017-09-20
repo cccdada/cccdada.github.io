@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86236d34-b35a-4ee1-983d-957418f776c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about-WS-gentle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/artificial-bg-intelligence.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about-BY-gentle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/avatar-by.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/home-bg-geek.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-iWatch.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-ios10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-ios9-web.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-ioses.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-mma-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-mma-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-mma-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-mma-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-mma-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-mma-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-mma-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/readme-home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/readme-side.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-9-20-AsyncTask源码分析.md" afterPath="$PROJECT_DIR$/_posts/2017-9-20-AsyncTask源码分析.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-9-20-Mac下安装TensorFlow.md" afterPath="$PROJECT_DIR$/_posts/2017-9-20-Mac下安装TensorFlow.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-9-20-设计模式-单例模式.md" afterPath="$PROJECT_DIR$/_posts/2017-9-20-设计模式-单例模式.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="ChaserShengBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,11 +53,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2919708">
+            <state vertical-scroll-proportion="-0.875">
               <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44827586">
+              <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -105,12 +91,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-9-20-AsyncTask源码分析.md" />
         <option value="$PROJECT_DIR$/_posts/2017-9-20-Mac下安装TensorFlow.md" />
         <option value="$PROJECT_DIR$/_posts/2017-9-20-设计模式-单例模式.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -124,8 +110,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="11" />
-    <option name="y" value="44" />
+    <option name="x" value="50" />
+    <option name="y" value="38" />
     <option name="width" value="1276" />
     <option name="height" value="777" />
   </component>
@@ -167,20 +153,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ChaserShengBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChaserShengBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChaserShengBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -259,7 +231,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="44" width="1276" height="777" extended-state="0" />
+    <frame x="50" y="38" width="1276" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -318,14 +290,6 @@
     <entry file="file://$PROJECT_DIR$/img/home-bg-art.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/home-bg-o.jpg">
@@ -487,8 +451,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2919708">
+        <state vertical-scroll-proportion="-0.875">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44827586">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
           <folding />
         </state>
       </provider>
