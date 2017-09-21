@@ -4,7 +4,7 @@ layout: default
 ---
 
 <html class="no-js">
-<head lang="en">
+<head lang="en" class="intro-header">
     <meta charset="UTF-8">
     <title>我的照片墙</title>
     <style>
@@ -26,7 +26,7 @@ layout: default
             height:600px;
             position:absolute;
             /*top:100% ;*/
-            margin-top:-300px;
+            /*margin-top:-300px;*/
             background:darkgray;
             overflow:hidden;
             -webkit-perspective:800px;
@@ -158,8 +158,10 @@ layout: default
     </div>
 </body>
 <script src="data.js">
+    document.body.classList.add('page-fullscreen');
 </script>
 <script>
+    document.body.classList.add('page-fullscreen');
         //通用函数获取id或者class:
         function $(selector){
             var method = selector.substr(0,1) == "."?"getElementsByClassName":"getElementById";
