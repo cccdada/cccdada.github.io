@@ -1,6 +1,6 @@
 # Site settings
 title: WS Blog
-SEOTitle: 王圣的博客 | WS Blog
+SEOTitle: 王圣的博客 | Sheng's Blog
 header-img: img/post-bg-desk.jpg
 email: chasersheng@gmail.com
 description: "鸟高藏于天，鱼深潜于水"
@@ -11,8 +11,8 @@ github_repo: "https://github.com/chasersheng/chasersheng.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "鸟高藏于天，鱼深潜于水"
-sidebar-avatar: /img/about-WS-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "写写代码，做做饭，到处转转，过幸福的二人世界。"
+sidebar-avatar: /img/about-WS-gentle.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: sheng
+disqus_username: chasersheng
 
 
 # Analytics settings

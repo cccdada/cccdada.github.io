@@ -1,6 +1,8 @@
 ---
 layout:     post
 title:      AsyncTask源码分析
+published:  true
+permalink:  AsyncTask源码分析
 subtitle:   源码分析
 date:       2017-09-20
 author:     ChaserSheng
