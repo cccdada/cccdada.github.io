@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86236d34-b35a-4ee1-983d-957418f776c2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/css/timeline.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/fonts/huxico.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/fonts/huxico.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/fonts/huxico.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/fonts/huxico.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/hux_avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/intern-alitrip.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/intern-lxu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/logo-jquery.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/logo-kissy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/logo-react.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/logo-vue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/newmedia.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/senova.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/work-busyweek.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/work-hslider.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/work-puzzle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/work-truth.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/work-uihome.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/work-wepiao-bo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/images/work-yanshuo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/life/js/modernizr.custom.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallary/index.html" afterPath="$PROJECT_DIR$/gallary/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallary/data.js" afterPath="$PROJECT_DIR$/gallary/data.js" />
     </list>
     <ignored path="ChaserShengBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallary/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45504087">
-              <caret line="158" column="7" selection-start-line="158" selection-start-column="7" selection-end-line="158" selection-end-column="7" />
+            <state vertical-scroll-proportion="-7.6862745">
+              <caret line="157" column="10" selection-start-line="157" selection-start-column="10" selection-end-line="157" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -104,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallary/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.6052632">
+              <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -143,6 +120,7 @@
         <option value="$PROJECT_DIR$/life/index.html" />
         <option value="$PROJECT_DIR$/gallary/画廊特效.html" />
         <option value="$PROJECT_DIR$/gallary/index.html" />
+        <option value="$PROJECT_DIR$/gallary/data.js" />
       </list>
     </option>
   </component>
@@ -263,6 +241,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gallary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -673,14 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallary/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.314578">
@@ -719,11 +707,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45504087">
-          <caret line="158" column="7" selection-start-line="158" selection-start-column="7" selection-end-line="158" selection-end-column="7" />
+        <state vertical-scroll-proportion="-7.6862745">
+          <caret line="157" column="10" selection-start-line="157" selection-start-column="10" selection-end-line="157" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallary/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6052632">
+          <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
