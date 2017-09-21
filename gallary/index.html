@@ -157,10 +157,11 @@ layout: default
 
     </div>
 </body>
-<script src="data.js"></script>
+<script src="data.js">
+    document.body.classList.add('page-fullscreen');
+</script>
 <script>
-        document.body.classList.add('page-fullscreen');
-
+    document.body.classList.add('page-fullscreen');
         //通用函数获取id或者class:
         function $(selector){
             var method = selector.substr(0,1) == "."?"getElementsByClassName":"getElementById";
