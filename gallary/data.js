@@ -120,7 +120,7 @@ var dataStr = "1.霍比特人<br>\
 上映时间:2015-01-23<br>\
 <br>\
 <br>\
-/gallary/images/11.love<br>\
+11.love<br>\
 <br>\
 导演:彼得.杰克逊<br>\
 编剧:弗兰.威尔士<br>\
