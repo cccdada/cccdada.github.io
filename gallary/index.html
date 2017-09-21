@@ -3,7 +3,7 @@ title: Gallary
 layout: default
 ---
 
-<html>
+<html class="intro-header">
 <head lang="en">
     <meta charset="UTF-8">
     <title>我的照片墙</title>
@@ -159,6 +159,7 @@ layout: default
 </body>
 <script src="data.js"></script>
 <script>
+        document.body.classList.add('page-fullscreen');
 
         //通用函数获取id或者class:
         function $(selector){

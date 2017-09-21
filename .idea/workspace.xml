@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86236d34-b35a-4ee1-983d-957418f776c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/10铁塔.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/11love.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/1霍比特人.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/2冰雪奇缘.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/3速度与激情7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/4一路惊喜.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/5三傻大闹宝莱坞.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/6甜心先生.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/7青春三.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/8美女.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/9邓紫棋.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/fonts/WebSymbols-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/hux_avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/fonts/huxico.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/fonts/huxico.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/fonts/huxico.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/intern-alitrip.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/intern-lxu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/logo-jquery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/logo-kissy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/logo-react.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/logo-vue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/newmedia.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/senova.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-busyweek.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-hslider.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-puzzle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-truth.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-uihome.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-wepiao-bo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-yanshuo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/fonts/huxico.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/js/modernizr.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/css/timeline.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallary/index.html" afterPath="$PROJECT_DIR$/gallary/index.html" />
     </list>
     <ignored path="ChaserShengBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,44 +24,24 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/portfolio/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tags.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="24.208334">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sw.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sw.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state vertical-scroll-proportion="-1.7307693">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio/index.html">
+      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.448718">
-              <caret line="170" column="138" selection-start-line="170" selection-start-column="133" selection-end-line="170" selection-end-column="138" />
+            <state vertical-scroll-proportion="-10.166667">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,8 +62,8 @@
       <file leaf-file-name="timeline.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/css/timeline.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.9259257">
-              <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+            <state vertical-scroll-proportion="-8.148149">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -136,8 +72,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallary/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30456853">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.35279188">
+              <caret line="153" column="22" selection-start-line="153" selection-start-column="22" selection-end-line="153" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallary/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -147,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/life/js/modernizr.custom.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="3" column="3676" selection-start-line="3" selection-start-column="3676" selection-end-line="3" selection-end-column="3676" />
               <folding />
             </state>
           </provider>
@@ -158,16 +104,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-11.875">
               <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -438,21 +374,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/home-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/avatar_m.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/avatar_g.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -530,14 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.7777777">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -737,29 +650,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/life/js/modernizr.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/life/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.875">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.448718">
-          <caret line="170" column="138" selection-start-line="170" selection-start-column="133" selection-end-line="170" selection-end-column="138" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,16 +670,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/css/timeline.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.9259257">
-          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+        <state vertical-scroll-proportion="-8.148149">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/life/js/modernizr.custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="3676" selection-start-line="3" selection-start-column="3676" selection-end-line="3" selection-end-column="3676" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallary/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.314578">
+          <caret line="4" column="45670" selection-start-line="4" selection-start-column="45670" selection-end-line="4" selection-end-column="45670" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3373206">
+          <caret line="6142" column="2" selection-start-line="6142" selection-start-column="2" selection-end-line="6142" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.166667">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7307693">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gallary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30456853">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.35279188">
+          <caret line="153" column="22" selection-start-line="153" selection-start-column="22" selection-end-line="153" selection-end-column="22" />
           <folding />
         </state>
       </provider>
