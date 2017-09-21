@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      AsyncTask源码分析
-subtitle:   小白学习人工智能
+subtitle:   源码分析
 date:       2017-09-20
 author:     ChaserSheng
 header-img: img/post-bg-android.jpg
