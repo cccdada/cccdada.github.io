@@ -2,7 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86236d34-b35a-4ee1-983d-957418f776c2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/index.html" afterPath="$PROJECT_DIR$/portfolio/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/10铁塔.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/11love.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/1霍比特人.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/2冰雪奇缘.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/3速度与激情7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/4一路惊喜.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/5三傻大闹宝莱坞.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/6甜心先生.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/7青春三.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/8美女.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/images/9邓紫棋.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/fonts/WebSymbols-Regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/hux_avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/fonts/huxico.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/fonts/huxico.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/fonts/huxico.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/intern-alitrip.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/intern-lxu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/logo-jquery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/logo-kissy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/logo-react.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/logo-vue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/newmedia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/senova.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-busyweek.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-hslider.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-puzzle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-truth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-uihome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-wepiao-bo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/images/work-yanshuo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/fonts/huxico.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallary/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/life/css/timeline.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ChaserShengBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,26 +77,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offline.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/offline.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
-              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="tags.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tags.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,14 +99,66 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.081743866">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            <state vertical-scroll-proportion="-1.448718">
+              <caret line="170" column="138" selection-start-line="170" selection-start-column="133" selection-end-line="170" selection-end-column="138" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modernizr.custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/js/modernizr.custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.6666666">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="35" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timeline.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/css/timeline.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.9259257">
+              <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gallary/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30456853">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modernizr.custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/life/js/modernizr.custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/life/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.875">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,36 +168,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125">
               <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="feed.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feed.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -153,6 +199,9 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/portfolio/index.html" />
+        <option value="$PROJECT_DIR$/life/index.html" />
+        <option value="$PROJECT_DIR$/gallary/画廊特效.html" />
+        <option value="$PROJECT_DIR$/gallary/index.html" />
       </list>
     </option>
   </component>
@@ -236,7 +285,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -250,7 +303,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,6 +356,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gallary/fonts" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
@@ -347,26 +438,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-unix-linux.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-sample-image.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-hacker.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-kuaidi.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/home-bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -507,14 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="17.352942">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/css/timeline.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="331" column="1" selection-start-line="331" selection-start-column="1" selection-end-line="331" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -674,13 +737,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/life/js/modernizr.custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/life/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.081743866">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state vertical-scroll-proportion="-1.448718">
+          <caret line="170" column="138" selection-start-line="170" selection-start-column="133" selection-end-line="170" selection-end-column="138" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/js/modernizr.custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6666666">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/css/timeline.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.9259257">
+          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallary/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30456853">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
