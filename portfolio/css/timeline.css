@@ -10,6 +10,17 @@ body, html {
 	margin: 0;
 }
 
+#wrap {
+	width: 100%;
+	height: 600px;
+	/*position:absolute;*/
+	/*top:100% ;*/
+	/*margin-top:-300px;*/
+	/*background:darkgray;*/
+	/*overflow:hidden;*/
+	/*-webkit-perspective:800px;*/
+}
+
 .main a{
 	color:#0085a1;
 }
