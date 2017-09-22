@@ -23,15 +23,15 @@ layout: default
     <!--</header>-->
         <div id="content-wrap" class="container" style="margin:0;padding:0;width:100%;">
 
-            <div class="photo photo_front " id="photo_{{index}}" onclick="turn(this)">
+            <div class="photo photo_front " id="photo_ {{ index }}" onclick="turn(this)">
                 <div class="photo-wrap">
                     <div class="side side-front ">
                         <p class="image"><img src="images/10铁塔.jpg" alt=""/>a</p>
 
-                        <p class="capation">{{caption}}</p>
+                        <p class="capation">{{ caption }}</p>
                     </div>
                     <div class="side side-back">
-                        <p class="desc">{{desc}}</p>
+                        <p class="desc">{{ desc }}</p>
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ layout: default
                         .replace("{{caption}}", data[s].caption)
                         .replace("{{desc}}", data[s].desc)
                 oHtml.push(_html);
-                nav.push('<span id="nav_' + s + '" onclick="turn($(\'#photo_' + s + ' \'))" class="i">&nbsp</span>')
+                nav.push('<span id="nav_' + s + '" onclick="turn($(\'#photo_ ' + s + ' \'))" class="i">&nbsp</span>')
             }
             oHtml.push('<div class="nav">' + nav.join('') + '</div>');
             $("#content-wrap").innerHTML = oHtml.join("");
