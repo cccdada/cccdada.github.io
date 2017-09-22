@@ -30,7 +30,7 @@ body {
 #wrap {
     width: 100%;
     height: 600px;
-    position:absolute;
+    position: relative;
     /*top:100% ;*/
     margin-top:-300px;
     background:darkgray;
@@ -61,7 +61,7 @@ body {
     padding: 20px;
     /*设置盒模型:内容和padding
     都在边框之内执行*/
-    box-sizing: border-box;
+    /*box-sizing: border-box;*/
 }
 
 .photo .side-front {
