@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="86236d34-b35a-4ee1-983d-957418f776c2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallary/js/anim.js" afterPath="$PROJECT_DIR$/gallary/js/anim.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallary/css/picc.css" afterPath="$PROJECT_DIR$/gallary/css/picc.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallary/index.html" afterPath="$PROJECT_DIR$/gallary/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ChaserShengBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,21 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="picc.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="picc.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallary/css/picc.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4642857">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state vertical-scroll-proportion="-16.518518">
+              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallary/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.7647059">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.43141592">
+              <caret line="23" column="91" selection-start-line="23" selection-start-column="91" selection-end-line="23" selection-end-column="91" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -81,8 +82,8 @@
       <file leaf-file-name="anim.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallary/js/anim.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.962963">
-              <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
+            <state vertical-scroll-proportion="-7.6296296">
+              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -127,10 +128,10 @@
         <option value="$PROJECT_DIR$/portfolio/index.html" />
         <option value="$PROJECT_DIR$/gallary/css/timeline.css" />
         <option value="$PROJECT_DIR$/portfolio/css/timeline.css" />
-        <option value="$PROJECT_DIR$/gallary/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/gallary/js/anim.js" />
         <option value="$PROJECT_DIR$/gallary/css/picc.css" />
+        <option value="$PROJECT_DIR$/gallary/index.html" />
+        <option value="$PROJECT_DIR$/gallary/js/anim.js" />
       </list>
     </option>
   </component>
@@ -773,29 +774,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallary/index.html">
+    <entry file="file://$PROJECT_DIR$/gallary/css/picc.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7647059">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-16.518518">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gallary/js/anim.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.962963">
-          <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
+        <state vertical-scroll-proportion="-7.6296296">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallary/css/picc.css">
+    <entry file="file://$PROJECT_DIR$/gallary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4642857">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding />
+        <state vertical-scroll-proportion="0.43141592">
+          <caret line="23" column="91" selection-start-line="23" selection-start-column="91" selection-end-line="23" selection-end-column="91" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

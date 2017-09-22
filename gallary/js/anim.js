@@ -10,7 +10,7 @@ function $(selector) {
 
 //输出所有的数据
 function addPhotos() {
-    var template = $("#wrap").innerHTML;
+    var template = $("#gallery_content").innerHTML;
     var oHtml = [];
     var nav = [];
     for (var s = 0; s < data.length; s++) {
@@ -23,7 +23,7 @@ function addPhotos() {
         nav.push('<span id="nav_' + s + '" onclick="turn($(\'#photo_ ' + s + ' \'))" class="i">&nbsp</span>')
     }
     oHtml.push('<div class="nav">' + nav.join('') + '</div>');
-    $("#wrap").innerHTML = oHtml.join("");
+    $("#gallery_content").innerHTML = oHtml.join("");
     rsort(random([0, data.length - 1]));
     return (oHtml);
 }
@@ -32,8 +32,8 @@ addPhotos();
 
 //随机给一张图片添加一个当前样式 ,即居中的photo_center ;
 function random(range) {
-    var min = Math.min(range[0], range[data.length - 1]);
-    var max = Math.max(range[0], range[data.length - 1]);
+    var min = Math.min(range[0], range[1]);
+    var max = Math.max(range[0], range[1]);
     var diff = max - min;
     var number = Math.ceil(Math.random() * diff + min);
     return number;
@@ -42,8 +42,8 @@ function random(range) {
 function range() {
     var range = {left: {x: [], y: []}, right: {x: [], y: []}};
     var wrap = {
-        w: $("#wrap").clientWidth,
-        h: $("#wrap").clientHeight
+        w: $("#gallery_content").clientWidth,
+        h: $("#gallery_content").clientHeight
     }
     var photo = {
         w: $(".photo")[0].clientWidth,
