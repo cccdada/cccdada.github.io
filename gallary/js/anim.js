@@ -27,7 +27,7 @@ function addPhotos() {
     rsort(random([0, data.length - 1]));
     return (oHtml);
 }
-addPhotos();
+//addPhotos();
 
 
 //随机给一张图片添加一个当前样式 ,即居中的photo_center ;
