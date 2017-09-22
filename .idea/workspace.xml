@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86236d34-b35a-4ee1-983d-957418f776c2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallary/js/anim.js" afterPath="$PROJECT_DIR$/gallary/js/anim.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallary/index.html" afterPath="$PROJECT_DIR$/gallary/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallary/css/picc.css" afterPath="$PROJECT_DIR$/gallary/css/picc.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/css/timeline.css" afterPath="$PROJECT_DIR$/portfolio/css/timeline.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ChaserShengBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,8 +68,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallary/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19911504">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.1659292">
+              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -140,10 +136,10 @@
         <option value="$PROJECT_DIR$/gallary/js/data.js" />
         <option value="$PROJECT_DIR$/portfolio/index.html" />
         <option value="$PROJECT_DIR$/gallary/js/anim.js" />
-        <option value="$PROJECT_DIR$/gallary/index.html" />
         <option value="$PROJECT_DIR$/gallary/css/timeline.css" />
         <option value="$PROJECT_DIR$/gallary/css/picc.css" />
         <option value="$PROJECT_DIR$/portfolio/css/timeline.css" />
+        <option value="$PROJECT_DIR$/gallary/index.html" />
       </list>
     </option>
   </component>
@@ -804,8 +800,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19911504">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.1659292">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
