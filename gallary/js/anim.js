@@ -32,8 +32,8 @@ addPhotos();
 
 //随机给一张图片添加一个当前样式 ,即居中的photo_center ;
 function random(range) {
-    var min = Math.min(range[0], range[1]);
-    var max = Math.max(range[0], range[1]);
+    var min = Math.min(range[0], range[data.length - 1]);
+    var max = Math.max(range[0], range[data.length - 1]);
     var diff = max - min;
     var number = Math.ceil(Math.random() * diff + min);
     return number;
@@ -59,7 +59,6 @@ function range() {
 
     range.right.x = [wrap.w / 2 + photo.w / 2, wrap.w + photo.w];
     range.right.y = [0 - photo.h, wrap.h];
-
     return range;
 
 }

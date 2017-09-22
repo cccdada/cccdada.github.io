@@ -41,9 +41,9 @@ body {
     width: 100%;
     height: 600px;
     position: relative;
-    top:100% ;
+    /*top:100% ;*/
     margin-top:-300px;
-    background:darkgray;
+    /*background:darkgray;*/
     overflow:hidden;
     /*-webkit-perspective:800px;*/
 }
