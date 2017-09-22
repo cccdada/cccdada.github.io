@@ -1,9 +1,13 @@
 * {
     margin: 0;
     padding: 0;
+    -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
 }
 
 body {
+    font-size: 100%;
+    padding: 0;
+    margin: 0;
     background-color: #fff;
     color: #555;
     font-family: 'Avenir Next', "Lantinghei SC";
@@ -160,4 +164,55 @@ body {
 
 .nav .i_back:after {
     background: yellow;
+}
+
+@media screen and (max-width: 400px) {
+    .main{
+        width: 100%;
+        padding-bottom: 0px;
+    }
+    html{
+        font-size: 90%;
+    }
+    header p{
+        font-size: 1.05em;
+        letter-spacing: 0px;
+        margin: 1.5em;
+    }
+    .cbp_tmlabel ul li.skill>span, .cbp_tmlabel ul li.skill>a{
+        margin-right: 2px;
+    }
+}
+
+header{
+    background: #6ca8fb;
+    background: -webkit-linear-gradient(to left, #00d2ff , #6ca8fb);
+    background: linear-gradient(to left, #00d2ff , #6ca8fb);
+    text-align: center;
+    height: 620px;
+    min-width: 100%;
+    padding: 5em 0px !important;
+    position: relative;
+    border-bottom: 1px solid #edeeee;
+}
+header h1 {
+    font-size: 70px;
+    color: white;
+    font-weight: 100;
+    margin-top: 26px;
+    margin-bottom: 10px;
+    line-height: 1;
+    letter-spacing: 0.1em;
+}
+header p{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    line-height: 1.6em;
+    letter-spacing: 1px;
+    font-weight: 300;
+    margin: 1.7em;
+}
+header img{
+    width: 190px;
 }
