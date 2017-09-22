@@ -60,7 +60,7 @@ layout: default
                         .replace("{{caption}}", data[s].caption)
                         .replace("{{desc}}", data[s].desc)
                 oHtml.push(_html);
-                nav.push('<span id="nav_1" onclick="turn($(\'#photo_ 1 \'))" class="i">&nbsp</span>')
+                nav.push('<span id="nav_' + s + '" onclick="turn($(\'#photo_' + s + ' \'))" class="i">&nbsp</span>')
             }
             oHtml.push('<div class="nav">' + nav.join('') + '</div>');
             $("#content-wrap").innerHTML = oHtml.join("");
