@@ -10,7 +10,7 @@ function $(selector) {
 
 //输出所有的数据
 function addPhotos() {
-    var template = $("#cwrap").innerHTML;
+    var template = $("#content-wrap").innerHTML;
     var oHtml = [];
     var nav = [];
     for (var s = 0; s < data.length; s++) {
@@ -23,7 +23,7 @@ function addPhotos() {
         nav.push('<span id="nav_' + s + '" onclick="turn($(\'#photo_ ' + s + ' \'))" class="i">&nbsp</span>')
     }
     oHtml.push('<div class="nav">' + nav.join('') + '</div>');
-    $("#cwrap").innerHTML = oHtml.join("");
+    $("#content-wrap").innerHTML = oHtml.join("");
     rsort(random([0, data.length - 1]));
     return (oHtml);
 }
@@ -42,8 +42,8 @@ function random(range) {
 function range() {
     var range = {left: {x: [], y: []}, right: {x: [], y: []}};
     var wrap = {
-        w: $("#cwrap").clientWidth,
-        h: $("#cwrap").clientHeight
+        w: $("#content-wrap").clientWidth,
+        h: $("#content-wrap").clientHeight
     }
     var photo = {
         w: $(".photo")[0].clientWidth,
