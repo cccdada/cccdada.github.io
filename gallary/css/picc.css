@@ -43,14 +43,14 @@ body {
     position: relative;
     /*top:100% ;*/
     margin-top:-300px;
-    /*background:darkgray;*/
+    background:darkgray;
     overflow:hidden;
     /*-webkit-perspective:800px;*/
 }
 
 .photo {
-    width: 260px;
-    height: 320px;
+    width: 10px;
+    height: 10px;
     position: absolute;
     z-index: 1;
     box-shadow: 0 0 1px rgba(0, 0, 0, .01);
