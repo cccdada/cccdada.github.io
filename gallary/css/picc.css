@@ -18,7 +18,17 @@ body {
     color: #555;
     font-family: 'Avenir Next', "Lantinghei SC";
     font-size: 14px;
-    -webkit-font-smoothing: antialiased;
+    /*-webkit-font-smoothing: antialiased;*/
+
+    background: #6ca8fb;
+    background: -webkit-linear-gradient(to left, #00d2ff , #6ca8fb);
+    background: linear-gradient(to left, #00d2ff , #6ca8fb);
+    text-align: center;
+    height: 620px;
+    min-width: 100%;
+    /*padding: 5em 0px !important;*/
+    position: relative;
+    border-bottom: 1px solid #edeeee;
 }
 
 @font-face {
@@ -33,9 +43,9 @@ body {
     position: relative;
     /*top:100% ;*/
     margin-top:-300px;
-    background:darkgray;
+    /*background:darkgray;*/
     overflow:hidden;
-    -webkit-perspective:800px;
+    /*-webkit-perspective:800px;*/
 }
 
 .photo {
