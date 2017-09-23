@@ -143,7 +143,6 @@ section li .overLayer, section li .infoLayer {
     height: 150px;
     position: absolute;
     text-align: center;
-    padding-top: -30px;
     opacity: 0;
     top: 10px;
     left: 0;
