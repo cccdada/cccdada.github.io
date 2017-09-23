@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86236d34-b35a-4ee1-983d-957418f776c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_七夕蛋糕.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_三亚大东海.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_三亚珠宝中心.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_丘陵低云.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_主题餐厅.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_十三香小龙虾.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_南海观世音菩萨.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_大海.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_椰树林.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_牛肉面.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_红烧鳊鱼.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_绿树小院.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_自制鸳鸯锅.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_苗寨.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_蓝天白云海浪沙滩.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_蓝蓝的天空.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_蜈支洲岛.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_西湖荷花.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_路边野花.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_酒店泳池.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_青椒炒鸡蛋.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_麦田.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_西湖荷花.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_酒店泳池.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_青椒炒鸡蛋.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_麦田.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/least/index.html" afterPath="$PROJECT_DIR$/least/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/least/css/least.min.css" afterPath="$PROJECT_DIR$/least/css/least.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ChaserShengBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallary/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-1.875">
               <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -66,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/least/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2972561">
-              <caret line="512" column="21" selection-start-line="512" selection-start-column="21" selection-end-line="512" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.23688394">
+              <caret line="367" column="36" selection-start-line="367" selection-start-column="36" selection-end-line="367" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -116,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/least/css/least.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="129" column="16" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="16" />
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -187,8 +160,8 @@
         <option value="$PROJECT_DIR$/least/css/style.min.css" />
         <option value="$PROJECT_DIR$/gallary/index.html" />
         <option value="$PROJECT_DIR$/portfolio/index.html" />
-        <option value="$PROJECT_DIR$/least/css/least.min.css" />
         <option value="$PROJECT_DIR$/least/index.html" />
+        <option value="$PROJECT_DIR$/least/css/least.min.css" />
       </list>
     </option>
   </component>
@@ -279,10 +252,6 @@
               <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thumb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -298,7 +267,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -569,6 +538,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.6666666">
           <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -679,16 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallary/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/least/css/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -723,14 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/least/css/least.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="129" column="16" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/least/img/full/full_七夕蛋糕.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -761,10 +713,28 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gallary/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/least/css/least.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/least/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2972561">
-          <caret line="512" column="21" selection-start-line="512" selection-start-column="21" selection-end-line="512" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.23688394">
+          <caret line="367" column="36" selection-start-line="367" selection-start-column="36" selection-end-line="367" selection-end-column="36" />
           <folding />
         </state>
       </provider>

@@ -8,6 +8,7 @@
 }
 
 body {
+    padding-top: 20px;
     background: #6ca8fb;
     background: -webkit-linear-gradient(to left, #00d2ff , #6ca8fb);
     background: linear-gradient(to left, #00d2ff , #6ca8fb);
