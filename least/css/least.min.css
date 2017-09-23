@@ -41,7 +41,7 @@ section {
     min-height: 100%;
     text-align: center;
     padding: 20px 0;
-    padding-top:100px;
+    padding-top:50px;
     top: 100%;
     /*background-color: #6ca8fb;*/
     background: #6ca8fb;
@@ -141,10 +141,10 @@ section li .overLayer, section li .infoLayer {
     transition: opacity 0.3s linear;
     width: 240px;
     height: 150px;
-    position: absolute;
+    /*position: absolute;*/
     text-align: center;
-    opacity: 0;
-    top: 10px;
+    /*opacity: 0;*/
+    /*top: 10px;*/
     left: 0;
     z-index: 4
 }
