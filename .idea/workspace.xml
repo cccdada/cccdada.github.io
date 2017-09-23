@@ -2,58 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86236d34-b35a-4ee1-983d-957418f776c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/effects/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/full_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/full/full_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/thumb/thumb_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/img/effects/white.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/js/jquery.lazyload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/css/least.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/js/least.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/css/least.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/css/prism.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/least/css/style.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallary/index.html" afterPath="$PROJECT_DIR$/gallary/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/least/index.html" afterPath="$PROJECT_DIR$/least/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ChaserShengBlog.iws" />
@@ -78,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallary/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.1764708">
+            <state vertical-scroll-proportion="31.411764">
               <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -100,8 +49,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/least/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.077319585">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.71938777">
+              <caret line="550" column="33" selection-start-line="550" selection-start-column="33" selection-end-line="550" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -115,16 +64,6 @@
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tags.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.25">
-              <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -380,6 +319,74 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="least" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="least" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="least" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChaserShengBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -458,7 +465,7 @@
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10451978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.057909604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -493,29 +500,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/portfolio/fonts/huxico.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/images/intern-lxu.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pwa/icons/512.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pwa/icons/128.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/images/logo-react.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -704,16 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/hux-blog.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -858,16 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallary/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1764708">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/least/js/least.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -886,10 +850,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/least/img/thumb/thumb_6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/least/js/jquery.lazyload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15841584">
+          <caret line="182" column="16" selection-start-line="182" selection-start-column="16" selection-end-line="182" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallary/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="31.411764">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/least/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02347418">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/least/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24509804">
+          <caret line="1" column="1142" selection-start-line="1" selection-start-column="1142" selection-end-line="1" selection-end-column="1142" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04901961">
+          <caret line="1" column="141" selection-start-line="1" selection-start-column="141" selection-end-line="1" selection-end-column="141" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/least/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.077319585">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.71938777">
+          <caret line="550" column="33" selection-start-line="550" selection-start-column="33" selection-end-line="550" selection-end-column="33" />
           <folding />
         </state>
       </provider>
