@@ -97,6 +97,10 @@ section li {
     position: relative
 }
 
+center{
+    text-align: center;
+}
+
 section li:hover .overLayer {
     -webkit-transition: opacity 0.3s linear;
     -moz-transition: opacity 0.3s linear;
