@@ -56,11 +56,11 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-#disqus_username: sheng-2
+disqus_username: sheng-2
 
 # 评论系统 使用gitment
-gitment_clientid: 76a1594b457fdcf1c2e5
-gitment_clientserc: 68a0ec93ba0395c31d88e49af3c28d8e9c724f1e
+#gitment_clientid: 76a1594b457fdcf1c2e5
+#gitment_clientserc: 68a0ec93ba0395c31d88e49af3c28d8e9c724f1e
 
 
 # Analytics settings
