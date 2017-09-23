@@ -104,7 +104,7 @@ section li:hover .overLayer {
     transition: opacity 0.3s linear;
     opacity: 0.6;
     display: block;
-    background: gray
+    /*background: gray*/
 }
 
 section li:hover .infoLayer {
