@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86236d34-b35a-4ee1-983d-957418f776c2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/least/index.html" afterPath="$PROJECT_DIR$/least/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/least/css/least.min.css" afterPath="$PROJECT_DIR$/least/css/least.min.css" />
     </list>
     <ignored path="ChaserShengBlog.iws" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/least/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23688394">
-              <caret line="367" column="36" selection-start-line="367" selection-start-column="36" selection-end-line="367" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.2845787">
+              <caret line="369" column="37" selection-start-line="369" selection-start-column="37" selection-end-line="369" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -89,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/least/css/least.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -726,15 +725,15 @@
     <entry file="file://$PROJECT_DIR$/least/css/least.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/least/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23688394">
-          <caret line="367" column="36" selection-start-line="367" selection-start-column="36" selection-end-line="367" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.2845787">
+          <caret line="369" column="37" selection-start-line="369" selection-start-column="37" selection-end-line="369" selection-end-column="37" />
           <folding />
         </state>
       </provider>
