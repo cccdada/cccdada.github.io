@@ -141,10 +141,11 @@ section li .overLayer, section li .infoLayer {
     transition: opacity 0.3s linear;
     width: 240px;
     height: 150px;
-    /*position: absolute;*/
+    position: absolute;
     text-align: center;
-    /*opacity: 0;*/
-    /*top: 10px;*/
+    padding-top: -30px;
+    opacity: 0;
+    top: 10px;
     left: 0;
     z-index: 4
 }
