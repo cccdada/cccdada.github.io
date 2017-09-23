@@ -1,6 +1,6 @@
-# WS Blog
+# ChaserSheng Blog
 
-> 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
+> Github博客的搭建教程，教程来源 [Hux](https://github.com/Huxpro/huxpro.github.io) 稍做修改。
 
 ### [我的博客在这里 &rarr;](https://chasersheng.github.io/)
 
@@ -241,7 +241,7 @@ JavaScript 的压缩混淆、Less 的编译、Apache 2.0 许可通告的添加�
 
 ## 致谢
 
-1. 这个模板是从这里[Hux](https://github.com/Huxpro/huxpro.github.io) clone 的。感谢作者 
+1. 这个模板是从[Hux](https://github.com/Huxpro/huxpro.github.io) clone 的。感谢作者
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 
