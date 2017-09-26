@@ -9,6 +9,9 @@
     padding-right: 5%;
   }
 }
+.apng {
+  background-image: url(https://tinypng.com/images/apng/grass-2x.png), url(https://tinypng.com/images/apng/panda-waving-2x.png);
+}
 .sidebar-container {
   color: #bfbfbf;
   font-size: 14px;
