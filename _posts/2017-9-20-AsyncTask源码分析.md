@@ -12,6 +12,7 @@ tags:
     - 源码
     - 开源
     - 系统
+    - framework
 ---
 
 AsyncTask大家都不会陌生吧，当然现在有比如RxJava这种替代方案，但是AsyncTask我们还是要去分析的，这样我们能更好的理解Android系统是怎样运行的。AsyncTask内部封装了Thread和Handler，简化了他们的使用，我们都知道子线程中是不能更新UI的，我们需要在子线程中计算然后在主线程中更新UI，AsyncTask就提供了这么一种简便的实现方式。
