@@ -62,12 +62,12 @@ yaml 头文件长这样:
 ```
 ---
 layout:     post
-title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
-date:       2016-12-13
-author:     BY
+title:      AsyncTask源码解析
+subtitle:   源码解析
+date:       2017-9-20
+author:     WS
 header-img: img/post-bg-ios9-web.jpg
-catalog: 	 true
+catalog: 	true
 tags:
     - iOS
     - 定时器
@@ -76,9 +76,6 @@ tags:
 ```
 
 ### 侧边栏
-
-看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
@@ -137,12 +134,8 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
-    },
-    {
-        title: "Apple",
-        href: "https://apple.com/"
+        title: "WS Blog",
+        href: "https://chasersheng.github.io/"
     }
 ]
 ```
