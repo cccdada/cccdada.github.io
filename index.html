@@ -5,10 +5,6 @@ description: "鸟高藏于天，鱼深潜于水"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <div id="search-container">
-        <input type="text" id="search-input" placeholder="search...">
-        <ul id="results-container"></ul>
-    </div>
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
