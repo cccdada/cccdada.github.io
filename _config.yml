@@ -12,7 +12,7 @@ github_repo: "https://github.com/chasersheng/chasersheng.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做饭，到处转转，过幸福的二人世界。"
-sidebar-avatar: /img/about-WS-gentle.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about_WS_gentle.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
