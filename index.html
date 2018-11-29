@@ -5,6 +5,10 @@ description: "鸟高藏于天，鱼深潜于水"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="search...">
+        <ul id="results-container"></ul>
+    </div>
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
@@ -40,3 +44,17 @@ description: "鸟高藏于天，鱼深潜于水"
     {% endif %}
 </ul>
 {% endif %}
+
+<script src="{{ site.baseurl }}/simple-jekyll-search.min.js"></script>
+
+<script>
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>', // 文章列表模板
+        noResultsText: '没有搜索到文章', // 无搜索数据提示语
+        limit: 20, // 返回最大文章数
+        fuzzy: false // 是否模糊匹配
+    })
+</script>
